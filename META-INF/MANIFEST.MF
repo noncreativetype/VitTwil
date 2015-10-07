@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: VitaAs
+Bundle-SymbolicName: VitaAs
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: VitaAs.jar,
+ fabes/Downloads/twilio-java-sdk-5.1.0-jar-with-dependencies (1).jar,
+ fabes/Downloads/javax.servlet-api-3.0.1.jar
+Export-Package: VitaAsk
